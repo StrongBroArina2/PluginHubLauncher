@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StrongBroArina2/AutoDock_Launcher</Id>
+  
+  <FriendlyName>AutoDock</FriendlyName>
+  
+  <Author>OwendB1</Author>
+  
+  <Tooltip>SE2-inspired automatic docking and landing</Tooltip>
+
+  <Description>Brings a Space Engineers 2-inspired automatic docking and terrain landing workflow to Space Engineers 1.
+
+Press the docking key once (default Ctrl+P) to scan for nearby compatible connector pairs on the ship you currently control and preview them with an in-world overlay. Press the landing key once (default Alt+P) to preview a terrain-aware landing pose based on your landing gear and hull clearance.
+
+Cycle through available connectors and target pairs, adjust lock rotation in 45 degree steps, then press the same key again to let AutoDock align, approach, and complete the maneuver automatically. Supports ships with multiple connectors, clean manual override cancellation, and in-world previews for both docking and landing.
+
+Hotkeys, connector search radius, and advanced docking behavior can be configured in the plugin settings.</Description>
+
+  <Commit>daf3568ad30396b96e7c99f2976c075c4be9015f</Commit>
+
+  <ImplicitUsings>true</ImplicitUsings> 
+</PluginData>
